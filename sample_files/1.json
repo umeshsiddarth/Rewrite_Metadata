@@ -1,0 +1,27 @@
+{
+    "name": "Art #1",
+    "description": "",
+    "image": "Art description.",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue background"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "leopard dress"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "normal"
+        },
+        {
+            "trait_type": "gender",
+            "value": "female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy hair"
+        }
+    ]
+}
